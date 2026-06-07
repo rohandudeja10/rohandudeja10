@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rohan Dudeja
 
-### AI & ML Undergraduate | Graduating 2026 | Computer Vision | Deep Learning
+### AI & ML Graduate (2026) | Computer Vision | Deep Learning
 
 🎓 B.Tech Artificial Intelligence & Machine Learning (2022–2026)
 
@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a B.Tech Artificial Intelligence & Machine Learning undergraduate graduating in 2026 with a strong interest in Computer Vision, Deep Learning, Multimodal AI, and Generative AI.
+I am a B.Tech Artificial Intelligence & Machine Learning graduate (2026) with a strong interest in Computer Vision, Deep Learning, Multimodal AI, and Generative AI.
 
 I enjoy building practical AI applications and working on end-to-end machine learning pipelines involving data preprocessing, model training, evaluation, explainability, and deployment.
 
@@ -64,7 +64,7 @@ Coursera
 
 ### 🔹 Multimodal DeepFake Detection System
 
-A multimodal DeepFake detection system combining visual and audio analysis for detecting manipulated media.
+Developed a multimodal DeepFake detection system combining visual and audio analysis for DeepFake detection in videos.
 
 #### Technologies Used
 
@@ -86,9 +86,7 @@ Python • PyTorch • OpenCV • Streamlit • ResNet18 • CNN • MFCC • Gr
 | Visual Model | 73.50%   | 91.23%    | 66.24%   |
 | Audio Model  | 92.57%   | 95.24%    | 92.54%   |
 
-Repository:
-
-https://github.com/rohandudeja10/DeepFake-Detection-System
+**Repository:** [DeepFake Detection System](https://github.com/rohandudeja10/DeepFake-Detection-System)
 
 ---
 
@@ -136,29 +134,24 @@ Worked on an industrial Computer Vision project focused on vehicle underbody ins
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-Graduating: 2026
-
 ---
 
-## Current Learning Goals
-
-* Advanced Computer Vision
-* Multimodal AI Systems
-* Generative AI
-* Explainable AI
-* MLOps
-* Production AI Deployment
-
----
 
 ## Connect With Me
 
 📧 Email: [rohann.dudeja1@gmail.com](mailto:rohann.dudeja1@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/rohandudeja10
+💼 LinkedIn: [linkedin.com/in/rohandudeja10](https://www.linkedin.com/in/rohandudeja10)
 
 🐙 GitHub: https://github.com/rohandudeja10
 
 ---
 
 ### Thanks for visiting my profile! 🚀
+---
+
+## GitHub Stats
+
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohandudeja10&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohandudeja10&layout=compact)
